@@ -1,38 +1,37 @@
----
-# 📌 Sidebar Menu Project  
+# Sidebar Menu Project
 
-A sleek and modern **Sidebar Menu** designed with smooth animations and a responsive layout. 🚀  
+A sleek and modern sidebar menu with smooth animations and a responsive layout. This project is built using HTML, CSS, and JavaScript.
 
-## 🔗 Live Demo  
-👉 [View Project](https://srijita627.github.io/Mini-Project--Sidebar-Menu/)  
+## 🔹 Features
 
-## ✨ Features  
-✅ Responsive Sidebar Menu  
-✅ Smooth Opening & Closing Animation  
-✅ Icons for Better Navigation  
-✅ Clean & Minimal UI  
-✅ Social Media Links Integration  
+- Responsive sidebar menu
+- Smooth animations
+- Modern UI design
+- Easy to integrate into any project
 
-## 🛠️ Tech Stack  
-- **HTML** – Structure of the menu  
-- **CSS** – Styling and animations  
-- **JavaScript** – Sidebar toggle functionality  
+## 📷 Preview
 
-## 🚀 Installation & Usage  
-1. **Clone the repository:**  
-   ```bash
+![Project Screenshot](https://srijita627.github.io/Mini-Project--Sidebar-Menu/)
+
+## 🚀 Live Demo
+
+Check out the live demo: [Sidebar Menu Project](https://srijita627.github.io/Mini-Project--Sidebar-Menu/)
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## 📌 How to Use
+
+1. Clone the repository:
+   
    git clone https://github.com/srijita627/Mini-Project--Sidebar-Menu.git
-   ```
-2. **Open `index.html`** in your browser.  
-3. Enjoy the smooth sidebar navigation! 🎉  
 
-## 📌 Future Improvements  
-- [ ] Dark Mode Toggle  
-- [ ] Additional Customization Options  
-- [ ] More Animations & Effects  
+2. Open the `index.html` file in your browser.
 
-## 🤝 Connect with Me  
-📌 **LinkedIn:** [Srijita Datta](https://www.linkedin.com/in/srijita-datta-38b29b280/)  
-📌 **GitHub:** [srijita627](https://github.com/srijita627)  
+## 🔗 Connect with Me
 
----
+- [LinkedIn](https://www.linkedin.com/in/srijita-datta627)
+- [GitHub](https://github.com/srijita627)
