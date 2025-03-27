@@ -1,6 +1,6 @@
 # Sidebar Menu Project
 
-A sleek and modern sidebar menu with smooth animations and a responsive layout. This project is built using HTML, CSS, and JavaScript.
+A sleek and modern sidebar menu with smooth animations and a responsive layout. This project is built using HTML and CSS.
 
 ## 🔹 Features
 
