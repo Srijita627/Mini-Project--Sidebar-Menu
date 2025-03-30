@@ -12,7 +12,7 @@ A sleek and modern sidebar menu with smooth animations and a responsive layout. 
 
 ## 🚀 Live Demo
 
-Check out the live demo: [Sidebar Menu Project](https://srijita627.github.io/Mini-Project--Sidebar-Menu/)
+Check out the live demo: [Sidebar Menu Project](https://srijita627.github.io/Sidebar-Menu-Project/)
 
 ## 🛠️ Technologies Used
 
