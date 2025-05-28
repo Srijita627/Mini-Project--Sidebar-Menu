@@ -18,7 +18,6 @@ Check out the live demo: [Sidebar Menu Project](https://srijita627.github.io/Sid
 
 - HTML
 - CSS
-- JavaScript
 
 ## 🔗 Connect with Me
 
